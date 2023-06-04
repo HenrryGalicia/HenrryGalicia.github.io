@@ -1,0 +1,133 @@
+* {
+    background-color: none;
+}
+
+body {
+    background-color: bisque;
+}
+.Titulo {
+    color: rgb(5, 5, 19);
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(228, 199, 217);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Helvetica, sans-serif;
+}
+
+#Menu {
+    background-color: rgb(240, 96, 209);
+    text-align: relative;
+    font-size: 25px;
+    color: rgb(236, 228, 228);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Principal {
+    margin: 20px;
+    font-size: 1em;
+    display: block;
+    background-color: rgba(140, 212, 206, 0.662);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(12, 5, 5);
+    justify-content: flex;
+}
+
+.Nombre {
+    margin: 20px;
+    font-size: 1em;
+    display: block;
+    background-color: rgba(178, 148, 196, 0.662);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(12, 5, 5);
+    justify-content: flex;
+}
+
+#EXPERIENCIAS {
+    font-size: 2em;
+    background-color: rgba(219, 50, 129, 0.662);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: rgb(247, 238, 238); 
+    margin: 20px;
+}
+
+.container {
+    margin: 20px;
+    background-color: rgba(216, 205, 223, 0.662);
+    text-align: justify;
+    font-size: 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+#COMPETENCIAS {
+    font-size: 2em;
+    background-color: rgba(228, 37, 132, 0.662);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: rgb(249, 244, 250); 
+    margin: 20px;
+}
+
+.contenido {
+    margin: 20px;
+    background-color: rgba(169, 214, 235, 0.662);
+    text-align: justify;
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+#FORMACION_ACADEMICA {
+    font-size: 2em;
+    background-color: rgba(158, 224, 216, 0.662);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: rgb(12, 5, 5); 
+    margin: 20px;
+}
+
+.contenido1 {
+    margin: 20px;
+    background-color: rgba(253, 190, 243, 0.662);
+    text-align: justify;
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+#REDES {
+    font-size: 2em;
+    background-color: rgba(223, 62, 124, 0.662);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: rgb(248, 245, 245); 
+    margin: 20px;
+}
+
+.inline {
+    margin: 20px;
+    background-color: rgba(243, 217, 186, 0.662);
+    text-align: justify;
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+#contactar {
+    font-size: 2em;
+    background-color: rgba(243, 217, 186, 0.662);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: rgb(12, 5, 5); 
+    margin: 20px;
+}
+
+.contacto {
+    margin: 20px;
+    background-color: rgba(221, 221, 230, 0.662);
+    text-align: justify;
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    
+}

@@ -1,0 +1,50 @@
+* {
+  background-color: bisque;
+}
+
+.Menu {
+  color: brown;
+  font-size: 1.5em;
+  margin: 20px;
+  text-align: center;
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  background-color: beige;
+  color: brown;
+  margin: 20px;
+  font-size: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Atajos {
+  color: brown;
+  background-color: none;
+  margin: 20px;
+}
+
+.Atajos2 {
+  color: brown;
+  background-color: none;
+  margin: 20px;
+}
+
+.Atajos3 {
+  color: brown;
+  background-color: none;
+  margin: 20px;
+}
+
+.Atajos4 {
+  color: brown;
+  background-color: none;
+  margin: 20px;
+}
+
+.Atajos5 {
+  color: brown;
+  background-color: none;
+  margin: 20px;
+}
